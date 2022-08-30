@@ -1,0 +1,11 @@
+.vs/
+.vsconfig
+UserSettings/
+Temp/
+Library/
+InitCodeMarker
+Packages/
+Logs/
+obj/
+2DTerrariaClone.sln
+Assembly-CSharp.csproj
